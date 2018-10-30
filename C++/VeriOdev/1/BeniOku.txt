@@ -1,0 +1,2 @@
+open: ./bin/test.exe
+
