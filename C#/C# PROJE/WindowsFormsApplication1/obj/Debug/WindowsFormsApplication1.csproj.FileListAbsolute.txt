@@ -1,0 +1,29 @@
+c:\users\yıldırım\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Yıldırım\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Yıldırım\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Yıldırım\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Yıldırım\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Yıldırım\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Yıldırım\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Yıldırım\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Yıldırım\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\KOD ÖDEV\C#\C# PROJE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\KOD ÖDEV\C#\C# PROJE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\KOD ÖDEV\C#\C# PROJE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\KOD ÖDEV\C#\C# PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\KOD ÖDEV\C#\C# PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\KOD ÖDEV\C#\C# PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\KOD ÖDEV\C#\C# PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\KOD ÖDEV\C#\C# PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\KOD ÖDEV\C#\C# PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\KOD ÖDEV\C#\C# PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\KOD\C#\C# PROJE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\KOD\C#\C# PROJE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\KOD\C#\C# PROJE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\KOD\C#\C# PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+D:\KOD\C#\C# PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\KOD\C#\C# PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\KOD\C#\C# PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+D:\KOD\C#\C# PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\KOD\C#\C# PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\KOD\C#\C# PROJE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
